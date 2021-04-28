@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pd-front-end-app/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/pd-front-end-app/static/js/main.1d17e21c.chunk.js",
+    "main.js.map": "/pd-front-end-app/static/js/main.1d17e21c.chunk.js.map",
+    "runtime-main.js": "/pd-front-end-app/static/js/runtime-main.ca5d8382.js",
+    "runtime-main.js.map": "/pd-front-end-app/static/js/runtime-main.ca5d8382.js.map",
+    "static/js/2.4dc53bf1.chunk.js": "/pd-front-end-app/static/js/2.4dc53bf1.chunk.js",
+    "static/js/2.4dc53bf1.chunk.js.map": "/pd-front-end-app/static/js/2.4dc53bf1.chunk.js.map",
+    "static/js/3.cd6ca7e5.chunk.js": "/pd-front-end-app/static/js/3.cd6ca7e5.chunk.js",
+    "static/js/3.cd6ca7e5.chunk.js.map": "/pd-front-end-app/static/js/3.cd6ca7e5.chunk.js.map",
+    "index.html": "/pd-front-end-app/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/pd-front-end-app/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.4dc53bf1.chunk.js.LICENSE.txt": "/pd-front-end-app/static/js/2.4dc53bf1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/pd-front-end-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca5d8382.js",
+    "static/js/2.4dc53bf1.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.1d17e21c.chunk.js"
+  ]
+}
